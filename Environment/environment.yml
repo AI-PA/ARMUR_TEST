@@ -1,0 +1,13 @@
+name: ox
+channels:
+  - defaults
+dependencies:
+  - osmnx
+  - ipykernel
+  - matplotlib
+  - numpy
+  - pandas
+  - seaborn
+  - openpyxl
+  - geopy
+prefix: /home/aipa/anaconda3/envs/ox
